@@ -11,7 +11,7 @@ The text "play" flashes (wow amazing !)
 Download all the files to your computer.
 
 In OBS Studio (or other capture software), add a browser source and select 
-the _public/index.php_ file.
+the _public/index.html_ file.
 
 
 The resolution is 1920 by 1080 pixel. If you ever use another resolution you can 
